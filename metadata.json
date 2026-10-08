@@ -1,0 +1,6 @@
+{
+  "name": "DocClear AI - ลบพื้นหลังเอกสารคมชัด",
+  "description": "ระบบ AI อัจฉริยะลบพื้นหลังเอกสาร ลบโต๊ะ แสงเงา รอยพับ สกัดลายเซ็น และปรับกระดาษขาวใสเนียนที่สุด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
